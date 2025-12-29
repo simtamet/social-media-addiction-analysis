@@ -71,7 +71,9 @@ cd social-media-addiction-analysis
 ```
 
 ### 2. Install Dependencies
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 ### 3. Run the Notebook
 - Open social_media_addiction_analysis.ipynb
