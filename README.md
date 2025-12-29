@@ -1,67 +1,73 @@
 # Social Media Addiction Analysis
 
-This project focuses on analyzing students' social media addiction using
-data analysis and machine learning techniques. The goal is to explore
-behavioral patterns and build predictive models based on students' usage data.
+This project explores students' social media addiction through
+data analysis, machine learning, and reproducible software practices.
+It is designed to demonstrate skills relevant to AI, Data Analyst,
+and Software Engineering roles.
 
 ---
 
-## Project Objectives
-- Analyze students' social media usage behavior
-- Identify factors related to social media addiction
-- Build and evaluate machine learning models for prediction
-- Extract meaningful insights from data
+## Project Overview
+- Conduct exploratory data analysis (EDA) to understand usage patterns
+- Identify key factors associated with social media addiction
+- Build machine learning models for addiction prediction
+- Apply software engineering practices for reproducibility and clarity
 
 ---
 
-## Data Analysis
+## Data Analysis (Data Analyst Focus)
+- Cleaned and preprocessed real-world dataset
 - Performed exploratory data analysis (EDA)
-- Visualized key relationships between usage behavior and addiction levels
-- Analyzed correlations between features and addiction scores
+- Visualized relationships between social media usage and addiction levels
+- Analyzed correlations to extract meaningful insights
 
 ---
 
-## Machine Learning
-- Data preprocessing and feature selection
+## Machine Learning (AI Focus)
+- Feature selection and data preprocessing
 - Built classification models to predict social media addiction
 - Evaluated models using standard metrics:
   - Accuracy
   - Precision
   - Recall
   - F1-score
+- Compared model performance and interpreted results
 
 ---
 
-## Software Engineering Practices
-- Clear and readable Python code
-- Modular structure using functions
-- Reproducible workflow with Jupyter Notebook
-- Version control using Git and GitHub
+## Software Engineering Practices (SE Focus)
+- Clean, readable, and well-structured Python code
+- Modular implementation using reusable functions
+- Reproducible workflow using Jupyter Notebook
+- Version control and project tracking with Git and GitHub
 
 ---
 
 ## Tools & Technologies
-- Python
-- Pandas
-- NumPy
+- Python 3.8+
+- Pandas, NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
 - Jupyter Notebook (Google Colab)
 
 ---
 
-## Project Files
-- `CP462_Project_Students_Social_Media_Addiction.ipynb`  
-  Main notebook containing data analysis, visualization, and machine learning models
+## Project Structure
+social-media-addiction-analysis/
+│
+├── social_media_addiction_analysis.ipynb
+├── README.md
 
 ---
 
 ## How to Run
-1. Clone this repository
-2. Install required dependencies
-3. Open the notebook using Jupyter or Google Colab
 
+### 1. Clone the Repository
 ```bash
+git clone https://github.com/your-username/social-media-addiction-analysis.git
+cd social-media-addiction-analysis
+
+### 2. Install Dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
-jupyter notebook
+
 
