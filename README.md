@@ -53,11 +53,13 @@ and Software Engineering roles.
 ---
 
 ## Project Structure
+
+```text
 social-media-addiction-analysis/
 │
 ├── social_media_addiction_analysis.ipynb
 ├── README.md
-
+```
 ---
 
 ## How to Run
@@ -66,8 +68,25 @@ social-media-addiction-analysis/
 ```bash
 git clone https://github.com/your-username/social-media-addiction-analysis.git
 cd social-media-addiction-analysis
+```
 
 ### 2. Install Dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
 
+### 3. Run the Notebook
+- Open social_media_addiction_analysis.ipynb
+- Run all cells sequentially using Jupyter Notebook or Google Colab
+  
+---
+
+## Dataset
+
+- **Source:** [Kaggle – Social Media Addiction vs Relationships](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
+
+---
+
+## Note
+This project was developed as part of an academic course and is intended to
+demonstrate foundational skills in data analysis, machine learning, and
+software engineering.
 
