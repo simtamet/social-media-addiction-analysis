@@ -7,7 +7,7 @@ and Software Engineering roles.
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 - Conduct exploratory data analysis (EDA) to understand usage patterns
 - Identify key factors associated with social media addiction
 - Build machine learning models for addiction prediction
@@ -15,7 +15,7 @@ and Software Engineering roles.
 
 ---
 
-## Data Analysis (Data Analyst Focus)
+## 📊 Data Analysis (Data Analyst Focus)
 - Cleaned and preprocessed real-world dataset
 - Performed exploratory data analysis (EDA)
 - Visualized relationships between social media usage and addiction levels
@@ -23,7 +23,7 @@ and Software Engineering roles.
 
 ---
 
-## Machine Learning (AI Focus)
+## 🤖 Machine Learning (AI Focus)
 - Feature selection and data preprocessing
 - Built classification models to predict social media addiction
 - Evaluated models using standard metrics:
@@ -35,7 +35,7 @@ and Software Engineering roles.
 
 ---
 
-## Software Engineering Practices (SE Focus)
+## 🛠️ Software Engineering Practices (SE Focus)
 - Clean, readable, and well-structured Python code
 - Modular implementation using reusable functions
 - Reproducible workflow using Jupyter Notebook
@@ -43,7 +43,7 @@ and Software Engineering roles.
 
 ---
 
-## Tools & Technologies
+## 🧰 Tools & Technologies
 - Python 3.8+
 - Pandas, NumPy
 - Scikit-learn
@@ -52,7 +52,7 @@ and Software Engineering roles.
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 social-media-addiction-analysis/
