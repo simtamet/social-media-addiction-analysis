@@ -32,7 +32,7 @@ behavioral patterns and build predictive models based on students' usage data.
 
 ---
 
-## 💻 Software Engineering Practices
+## Software Engineering Practices
 - Clear and readable Python code
 - Modular structure using functions
 - Reproducible workflow with Jupyter Notebook
